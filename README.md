@@ -22,6 +22,7 @@ Code is licensed under the MIT license but "artwork" is creative commons. You ma
 - Particle systems.
 - Shader torch effect.
 - Coin system
+- Snake enemies with follow and attack AI.
 
 ---
 
