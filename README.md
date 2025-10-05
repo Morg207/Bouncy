@@ -9,7 +9,7 @@ The goal is simple: collect all the bunnies while avoiding the snakes!
 
 ---
 
-Code is licensed under the MIT license but "artwork" is creative commons. You may not use my art work for commercial purposes, which you probably won't anyway.
+Code is licensed under the MIT license but "artwork" is creative commons. You may not use my art work for commercial purposes, which you probably won't anyway because it's terrible.
 
 ## 🎮 Features
 
