@@ -42,4 +42,4 @@ Make sure you have Python 3.7 or newer installed.
 Install dependencies:
 
 ```bash
-pip install pygame PyOpenGL
+pip install pygame PyOpenGL numpy
