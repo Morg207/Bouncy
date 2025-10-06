@@ -33,6 +33,8 @@ Code is licensed under the MIT license but "artwork" is creative commons. You ma
 - [PyOpenGL](http://pyopengl.sourceforge.net/) – rendering engine (OpenGL context)
 
 ---
+<img width="810" height="642" alt="Bouncy Screenshot" src="https://github.com/user-attachments/assets/ec943dad-0a19-4715-9ea7-c6d3f35cf0dd" />
+
 
 ## 🚀 Getting Started
 
