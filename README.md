@@ -1,5 +1,5 @@
 # Bouncy
-This is a 2d side scrolling platformer made with Python, Pygame and OpenGL and GLSL. It was mostly made to challenge myself at programming something with a tile map, something I'd never done before.
+This is a 2D side scrolling platformer made with Python, Pygame and OpenGL and GLSL. It was mostly made to challenge myself at programming something with a tile map, something I'd never done before.
 
 # 🐇 Bouncy: A Side-Scrolling Platformer (Python + Pygame + OpenGL)
 
